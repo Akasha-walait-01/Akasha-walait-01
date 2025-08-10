@@ -1,6 +1,6 @@
 # 👩‍💻 Akasha Walait
 
-**💼 Computer Science Student | Web Developer | Graphic Designer | Content Writer | Data Entry Expert**
+**💼 Computer Science Student | Web Developer | Content Writer **
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 👩‍🎓 4th Semester Computer Science Student
 - 🌐 Passionate about creating clean and user-friendly websites
-- 🎨 Skilled in **HTML, CSS, JavaScript, Python, Oracle DB, Canva, MS Office**
+- 🎨 Skilled in **HTML, CSS, JavaScript, Python, Oracle DB, Canva**
 - 🖊️ Also love writing content and designing graphics
 - 💻 Learning new tech every day and solving real-world problems
 - 📬 **Available for Hire** – I'm open to freelance and collaborative work!
@@ -19,8 +19,6 @@
 
 - Web Development 🌍  
 - Content Writing ✍️  
-- Graphic Designing 🎨  
-- Data Entry 📊  
 - UI/UX (Basic) 🧠  
 
 ---
