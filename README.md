@@ -1,6 +1,6 @@
 # 👩‍💻 Akasha Walait
 
-**💼 Computer Science Student | Web Developer | Content Writer | AI/ML | Cbersecurity**
+**💼 Computer Science Student | Web Developer | Content Writer | AI/ML | Cybersecurity**
 
 ---
 
