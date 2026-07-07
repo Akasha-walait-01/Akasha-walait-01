@@ -6,7 +6,7 @@
 
 ### ✨ About Me
 
-- 👩‍🎓 4th Semester Computer Science Student
+- 👩‍🎓 6th Semester Computer Science Student
 - 🌐 Passionate about creating clean and user-friendly websites
 - 🎨 Skilled in **HTML, CSS, JavaScript, Python, Oracle DB, Canva**
 - 🖊️ Also love writing content and designing graphics
@@ -19,7 +19,8 @@
 
 - Web Development 🌍  
 - Content Writing ✍️  
-- UI/UX (Basic) 🧠  
+- UI/UX (Basic) 🧠
+- AI/ML  
 
 ---
 
@@ -29,7 +30,7 @@
 - Voice Command Recognition using Finite State Automata 🗣️  
 - Loan Default Prediction using AI 🤖  
 - Penetration Testing Toolkit 🔐  
-- Distributed Inventory Management System 📦  
+- Distributed Inventory Management System 📦 and others  
 
 ---
 
