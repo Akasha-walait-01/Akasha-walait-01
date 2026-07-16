@@ -1,6 +1,6 @@
 # 👩‍💻 Akasha Walait
 
-**💼 Computer Science Student | Web Developer | Content Writer | AI/ML | Cybersecurity**
+**💼 Computer Science Student | WordPress | Content Writer | AI/ML | Cybersecurity**
 
 ---
 
@@ -17,9 +17,9 @@
 
 ### 🔧 Skills
 
-- Web Development 🌍  
+- Cybersecurity 🌍  
 - Content Writing ✍️  
-- UI/UX (Basic) 🧠
+- WordPress 🧠
 - AI/ML  
 
 ---
